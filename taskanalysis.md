@@ -10,7 +10,7 @@
 
 ### Feature: Activity Recording.
 
-> The feature that I will be documenting is the manual activity recording. This is limited to activity records created by the user, and not by tracking by an android phone or fitness wearable. It also does not include GPS-based live activity tracking.
+> The features covered in this guide will be those that involve manual record-keeping of activities, live activity tracking, and the passive tracking done by the android device motion sensor.
 
 ### Audience: Casual, non-technical users of the app.
 
@@ -18,34 +18,33 @@
 
 ### User Goals:
 - Manually add exercise activities to Google Fit records
+- Track an activity as it is being performed
 - Review past activities
-- Maintain accurate record of activities
 
 ### Style Guide: Google Documentation Style Guide
 
 > I will be using the [Google Documentation Style Guide](https://developers.google.com/style/). Although it is primarily intended for developer-facing documentation, it in creates standards of simplicity, clarity, and international accessibility that apply equally to user-facing writing.
 
 ## Tasks
-1. Create a new activity
-  a. Set activity type
-  b. Set date and time
-  c. Add a title and notes to an activity
-  d. Select effort level
-  e. Add calories, steps, and miles
-2. View activities in the journal
-  a. View records of activities
-  b. View an individual activity
+1. Add an activity manually
+  a. Set activity type, date, and time
+  b. Add a title and notes to an activity
+  c. Change effort level, calories, steps, and miles
+2. Track a live activity
+  a. Start, pause and resume an activity
+  b. Stop and save an activity
+3. View activities in the journal
+  a. View list of past activities
   c. Update activities list
-3. Edit an activity
-  a. Open an activity editing menu
-  b. Save changes to an activity
-4. Delete an activity
+  b. Edit an activity
+  d. Delete an activity
 
 ## Concepts
 - activity
 - journal
 - move minutes
 - heart points
+- GPS data in live activity tracking
 
 ## Reference
 - All activities and caloric value
