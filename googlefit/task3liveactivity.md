@@ -1,9 +1,9 @@
 # Starting, pausing, and resuming a live activity
 
 ## Starting your workout
-1. From the home menu, tap the [+](!) icon and select "Track workout".
+1. From the home menu, tap the [plus](!) icon and select "Track workout".
 
-2. Tap the [v](!) icon to access drop-down options for the activity type.
+2. Tap the [down arrow](!) icon to access drop-down options for the activity type.
 
 > To accurately track your route in an [activity which saves map position]( ), make sure the GPS is enabled on your Android device.
 
