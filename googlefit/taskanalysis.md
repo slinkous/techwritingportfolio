@@ -28,7 +28,7 @@
 ## Tasks
 1. Add an activity manually
   a. Set activity type, date, and time
-  b. Change effort level, calories, steps, and miles
+  b. Change effort level, calories, steps, and distance
 2. Track a live activity
   a. Start, pause, resume and save an activity
 3. View activities in the journal
@@ -37,12 +37,13 @@
   b. Edit or delete an activity
 
 ## Concepts
-- activity
 - journal
 - move minutes
 - heart points
 - GPS data in live activity tracking
-- elevation
+- passive activity recording
+- manual activity recording
+- live activity recording
 
 ## Reference
 - All activities and caloric value
