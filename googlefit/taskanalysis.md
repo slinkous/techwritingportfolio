@@ -28,8 +28,7 @@
 ## Tasks
 1. Add an activity manually
   a. Set activity type, date, and time
-  b. Add a title and notes to an activity
-  c. Change effort level, calories, steps, and miles
+  b. Change effort level, calories, steps, and miles
 2. Track a live activity
   a. Start, pause and resume an activity
   b. Stop and save an activity
