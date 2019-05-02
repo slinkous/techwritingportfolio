@@ -10,7 +10,7 @@
 
 2. To change calories, steps, or miles, tap the box you want to change to open the on-screen number pad.
 
-> Move Minutes and Heart Points are only calculated by Fit and cannot be adjusted
+> [Move Minutes]( ) and [Heart Points]( ) are only calculated by Fit and cannot be adjusted
 
 3. When finished, tap "Save", in the top right corner.
 
