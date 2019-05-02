@@ -1,10 +1,9 @@
 # Adding an activity
 
-1. From the home menu, tap the ![+]( ) icon and select "Add activity".
-2. Use the ![v]( ) icon to access drop-down options for the activity type, date, star and end times.
+1. From the home menu, tap the ![plus]( ) icon and select "Add activity".
+2. Use the ![down arrow]( ) icon to access drop-down options for the activity type, date, star and end times.
 
-3. If you would like to your activity a title or notes:
-- Tap be "Activity title" or "Notes" boxes to active the on-screen keyboard
+3. If you would like to your activity a title or notes, tap the "Activity title" or "Notes" boxes to active the on-screen keyboard
 
 4. Tap "Save" in the top right corner.
 
