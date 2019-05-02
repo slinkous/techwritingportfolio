@@ -30,13 +30,11 @@
   a. Set activity type, date, and time
   b. Change effort level, calories, steps, and miles
 2. Track a live activity
-  a. Start, pause and resume an activity
-  b. Stop and save an activity
+  a. Start, pause, resume and save an activity
 3. View activities in the journal
   a. View list of past activities
   c. Update activities list
-  b. Edit an activity
-  d. Delete an activity
+  b. Edit or delete an activity
 
 ## Concepts
 - activity
@@ -44,8 +42,10 @@
 - move minutes
 - heart points
 - GPS data in live activity tracking
+- elevation
 
 ## Reference
 - All activities and caloric value
 - Available fields in activity entry
 - Activity intensity level definitions
+- List of activities which allow map tracking
