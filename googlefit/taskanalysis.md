@@ -33,7 +33,6 @@
   a. Start, pause, resume and save an activity
 3. View activities in the journal
   a. View list of past activities
-  c. Update activities list
   b. Edit or delete an activity
 
 ## Concepts
