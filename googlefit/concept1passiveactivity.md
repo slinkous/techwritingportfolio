@@ -2,7 +2,7 @@
 
 Google Fit will create records of your fitness activities even when you do not  create those records yourself, and add those records to the journal.  
 
-This passive tracking relies on requests for sensor data from your smart phone, that uses calculations of motion to function like a pedometer. The data is always being recorded, and updates periodically on the app. This data can come from multiple sources, like a fitness tracking wristband, and Fit will select the source that is most likely to be accurate.
+This passive tracking relies on requests for sensor data from your smart phone, that uses calculations of motion to function like a pedometer. The data is always being recorded, but will not automatically generate an activity unless you move at least 30 steps in 60 seconds. This data can come from multiple sources, like a fitness tracking wristband, and Fit will select the source that is most likely to be accurate.
 
 These activities are usually recorded as a "walk", but may also be categorized as a "run" or "bike", based on the speed recorded during the activity.
 
