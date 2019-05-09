@@ -14,4 +14,4 @@
 
 4. When finished, tap "Save", in the top right corner.
 
-> You will not be able to adjust these values for [activities tracked automatically by Fit]( ).  
+> You will not be able to adjust these values for [activities tracked automatically by Fit](concept1passactivity.md).  

@@ -26,21 +26,21 @@
 > I will be using the [Google Documentation Style Guide](https://developers.google.com/style/). Although it is primarily intended for developer-facing documentation, it in creates standards of simplicity, clarity, and international accessibility that apply equally to user-facing writing.
 
 ## Tasks
-1. Add an activity manually
+1. [Add an activity manually](task1addactivity.html)
   a. Set activity type, date, and time
-  b. Change effort level, calories, steps, and distance
-2. Track a live activity
+  b. [Change effort level, calories, steps, and distance](task2changemetrics.html)
+2. [Track a live activity](task3liveactivity.html)
   a. Start, pause, resume and save an activity
-3. View activities in the journal
+3. [View activities in the journal](task4viewactivities.html)
   a. View list of past activities
-  b. Edit or delete an activity
+  b. [Edit or delete an activity](task5editactivity.html)
 
 ## Concepts
 - journal
 - move minutes
 - heart points
 - GPS data in live activity tracking
-- passive activity recording
+- [passive activity recording](concept1passactivity.html)
 - manual activity recording
 - live activity recording
 
