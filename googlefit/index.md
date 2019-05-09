@@ -27,22 +27,18 @@
 
 ## Tasks
 1. [Add an activity manually](task1addactivity.html)
-  a. Set activity type, date, and time
-  b. [Change effort level, calories, steps, and distance](task2changemetrics.html)
-2. [Track a live activity](task3liveactivity.html)
-  a. Start, pause, resume and save an activity
-3. [View activities in the journal](task4viewactivities.html)
-  a. View list of past activities
-  b. [Edit or delete an activity](task5editactivity.html)
+2. [Change effort level, calories, steps, and distance](task2changemetrics.html)
+3. [Track a live activity](task3liveactivity.html)
+4. [View activities in the journal](task4viewactivities.html)
+5. [Edit or delete an activity](task5editactivity.html)
+6. Create a Goal
 
 ## Concepts
 - journal
-- move minutes
-- heart points
-- GPS data in live activity tracking
-- [passive activity recording](concept1passactivity.html)
-- manual activity recording
-- live activity recording
+- [move minutes and heart points](concept4heartpointsmoveminutes.html)
+- [passive activity recording](concept1passiveactivity.html)
+- [manual activity recording](concept2manualactivity.html)
+- [live activity recording](concept3liveactivity.html)
 
 ## Reference
 - All activities and caloric value
