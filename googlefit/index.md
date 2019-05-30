@@ -1,10 +1,9 @@
 ## Tasks
 1. [Add an activity manually](task1addactivity.html)
-2. [Change effort level, calories, steps, and distance](task2changemetrics.html)
-3. [Track a live activity](task3liveactivity.html)
-4. [View activities in the journal](task4viewactivities.html)
-5. [Edit or delete an activity](task5editactivity.html)
-6. Create a Goal
+2. [Track a live activity](task3liveactivity.html)
+3. [View activities in the journal](task4viewactivities.html)
+4. [Edit or delete an activity](task5editactivity.html)
+5. Create a Goal
 
 ## Concepts
 - journal
