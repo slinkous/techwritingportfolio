@@ -1,4 +1,4 @@
-# Find past activities in the Journal
+# See past activities in the Journal
 
 > The Journal keeps the history of all saved workouts, and is where you can see past workouts of all times and edit them.
 
@@ -9,3 +9,5 @@
 3. To update the list, tap the ![cycle]( ) button in the top right corner of the screen.
 
 4. To view an individual record, tap the title of the activity.
+
+Further information: [Edit an activity record](task5editactivity.html)

@@ -8,4 +8,4 @@ These activities are usually recorded as a "walk", but may also be categorized a
 
 Because these activities are generated, you can not change some aspects of the activity, like the time and duration, but other details of the activity [can be edited normally](task5editactivty.html).
 
-See also: [Live Activity Tracking](concept3liveactivity.html) [Manual Activity Tracking](concept2manualactivity.html)
+See also: [Live Activity Tracking](concept3liveactivity.html), [Manual Activity Tracking](concept2manualactivity.html), [Types of activity tracking](reference2recordingtypes.md)

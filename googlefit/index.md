@@ -12,5 +12,5 @@
 - [Live activity recording](concept3liveactivity.html)
 
 ## Reference
-- [Types of activity recording and when to use them](reference2activitytypes.html)
+- [Types of activity recording and when to use them](reference2recordingtypes.html)
 - [Available fields in activity entry](reference1activityfields.html)
