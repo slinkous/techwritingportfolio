@@ -4,4 +4,4 @@ You can record activities without any sensor data in the Google Fit App. This is
 
 Google Fit will base the calories, effort level, steps, and other relevant metrics on the type of activity you select for the record, but they can also [be changed](task2changemetrics.html). GPS data, however, cannot be added, nor can a manually-added activity start or end in the future.
 
-See also: [Passive Activity Tracking](concept1passiveactivity.html) [Live Activity Tracking](concept3liveactivity.html)
+See also: [Passive activity tracking](concept1passiveactivity.html), [Live activity tracking](concept3liveactivity.html), [Types of activity tracking](reference2recordingtypes.md)
