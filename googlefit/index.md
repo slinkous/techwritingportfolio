@@ -1,9 +1,12 @@
+# Google Fit guide
+
+This a guide to using the Google Fit app to track your fitness activity. It is not the official Google Fit guide, and more information about why this was written can be found in the [taskanalysis.html].
+
 ## Tasks
 1. [Add an activity manually](task1addactivity.html)
 2. [Track a live activity](task3liveactivity.html)
 3. [See past activities in the journal](task4viewactivities.html)
 4. [Edit or delete an activity](task5editactivity.html)
-5. Create a Goal
 
 ## Concepts
 - [Move minutes and Heart Points](concept4heartpointsmoveminutes.html)
