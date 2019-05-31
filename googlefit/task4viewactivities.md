@@ -1,4 +1,4 @@
-# See past activities in the Journal
+# Seeing past activities in the Journal
 
 > The Journal keeps the history of all saved workouts, and is where you can see past workouts of all times and edit them.
 

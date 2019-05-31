@@ -1,4 +1,4 @@
-# Track a live activity
+# Tracking a live activity
 
 ## Start a workout
 1. From the home menu, tap the ![plus]( ) icon and select "Track workout".
