@@ -8,4 +8,4 @@
 
 4. Tap the date, start, and end fields to change the time and date of the activity.
 
-> Effort levels, calories, steps, and distance are automatically calculated, but you can also [change these manually.]( )
+> Effort levels, calories, steps, and distance are automatically calculated, but you can also be modified.
