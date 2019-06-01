@@ -1,4 +1,4 @@
-# Adding an activity
+# Add an activity
 
 1. From the home menu, tap the ![add](assets/images/add.png) icon and select "Add activity".
 

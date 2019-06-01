@@ -1,4 +1,4 @@
-# Editing or deleting an activity
+# Edit or delete an activity
 
 1. [Open an individual activity through the Journal.](task4viewactivities.html)
 2. Tap the ![add activity](assets/images/addactivity.png) button in the upper right corner and select "Edit" to change the activity or "Delete" to remove it.

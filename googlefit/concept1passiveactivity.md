@@ -1,4 +1,4 @@
-# Passive Activity Tracking
+# Passive activity tracking
 
 Google Fit will create records of your fitness activities even when you do not  create those records yourself, and add those records to the journal.  
 

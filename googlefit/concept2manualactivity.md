@@ -1,4 +1,4 @@
-# Manual Activity Tracking
+# Manual activity tracking
 
 You can record activities without any sensor data in the Google Fit App. This is ideal for fitness classes, and any situation in which you would not want to carry your smart phone or wear a fitness tracking device.
 

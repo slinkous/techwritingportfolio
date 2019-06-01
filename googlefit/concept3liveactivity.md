@@ -1,4 +1,4 @@
-# Live Activity Tracking
+# Live activity tracking
 
 You can begin tracking an activity at the moment you start it, and pause and resume as much as you want during the activity to create a new activity record. The calories, distance, and another metrics will be generated once you stop the activity.
 
