@@ -1,6 +1,6 @@
 # Google Fit guide
 
-This a guide to using the Google Fit app to track your fitness activity. It is not the official Google Fit guide, and more information about why this was written can be found in the [taskanalysis.html].
+This a guide to using the Google Fit app to track your fitness activity. It is not the official Google Fit guide, and more information about why this was written can be found in the [Task Analysis](taskanalysis.html).
 
 ## Tasks
 - [Add an activity manually](task1addactivity.html)
