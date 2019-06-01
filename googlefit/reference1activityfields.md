@@ -49,6 +49,6 @@ Activities that are recorded through the Google Fit app have a number of fields 
   <td>Effort Level</td>
   <td>Yes</td>
   <td>Yes</td>
-  <td>This field lets you use a slider to denote how physically challenging an activity is. This will directly correlate to the number of <a href="concept4heartpointsmoveminutes.html">Heart Points</a> the activity gives per minute</td>, ranging from 0 to 2 Heart Points per minute. If you do not specify it, the effort level will be based on the Activity type.
+  <td>This field lets you use a slider to denote how physically challenging an activity is. This will directly correlate to the number of <a href="concept4heartpointsmoveminutes.html">Heart Points</a> the activity gives per minute, ranging from 0 to 2 Heart Points per minute. If you do not specify it, the effort level will be based on the Activity type.</td>
   </tr>
 </table>
