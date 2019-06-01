@@ -15,3 +15,5 @@
 3. At the end of the workout, press **Stop**.
 
 Further information: [Live activity tracking](concept3liveactivity.html), [Manual activity tracking](concept2manualactivity.html)
+
+[Back](index.html)

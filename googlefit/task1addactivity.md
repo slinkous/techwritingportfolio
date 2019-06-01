@@ -1,7 +1,9 @@
-# Adding an activity
+# Add an activity
 
 1. From the home menu, tap the ![add](assets/images/add.png) icon and select "Add activity".
-2. Use the ![more](assets/images/more.png)) icon to access drop-down options for the activity type, date, start and end times.
+
+2. Use the ![dropdown](assets/images/dropdown.png) icon to access drop-down options for the activity type, date, start and end times.
+
 3. Customize optional fields:
   a. If you would like to your activity a title or notes, tap the "Activity title" or "Notes" boxes to active the on-screen keyboard.
   b. To change calories, steps, or miles, tap the box you want to change to open the on-screen number pad.
@@ -11,3 +13,5 @@
 4. Tap "Save" in the top right corner.
 
 Further Information: [Available fields for activity recording](reference1activityfields.html), [Manual activity tracking](concept2manualactivity.html)
+
+[Back](index.html)

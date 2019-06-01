@@ -28,4 +28,6 @@ The two goals of this writing are to be modular, and task-driven. The central do
 
 ### Style Guide: Google Documentation Style Guide
 
-This guide will use the [Google Documentation Style Guide](https://developers.google.com/style/). Although it is primarily intended for developer-facing documentation, it creates standards of simplicity, clarity, and international accessibility that apply equally to user-facing writing.
+This guide will use the [Google Documentation Style Guide](https://developers.google.com/style/). Although it is primarily intended for developer-facing documentation, it in creates standards of simplicity, clarity, and international accessibility that apply equally to user-facing writing.
+
+[Back](index.html)

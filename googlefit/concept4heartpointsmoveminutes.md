@@ -9,3 +9,5 @@ Heart Points are a measure based on the recommendations of the American Heart As
 ## Move minutes
 
 Move minutes are awarded for each whole minute that you are active, in any activity type. This can be any variety of activities, and is not limited to ones where you are strictly moving.
+
+[Back](index.html)
