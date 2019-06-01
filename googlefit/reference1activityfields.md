@@ -53,3 +53,5 @@ Activities that are recorded through the Google Fit app have a number of fields 
   </td>
   </tr>
 </table>
+
+[Back](index.html)

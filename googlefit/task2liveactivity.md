@@ -15,3 +15,5 @@ Note: To accurately track your route in an [activity which saves map position](c
 3. At the end of the workout, press the ![stop]( ) button.
 
 Further information: [Live activity tracking](concept3liveactivity.html), [Manual activity tracking](concept2manualactivity.html)
+
+[Back](index.html)

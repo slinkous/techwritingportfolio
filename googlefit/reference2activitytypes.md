@@ -23,3 +23,5 @@ Timing: After the activity is finished.
 **Available activity types**: Walking, running, biking.
 
 **Timing**: Whenever your device detects motion.
+
+[Back](index.html)

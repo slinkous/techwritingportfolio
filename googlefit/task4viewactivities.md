@@ -8,3 +8,5 @@
 4. To view an individual record, tap the title of the activity.
 
 Further information: [Edit an activity record](task5editactivity.html)
+
+[Back](index.html)

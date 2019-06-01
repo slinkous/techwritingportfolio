@@ -29,3 +29,5 @@ The two central goals of this project are to produce writing that is modular, an
 ### Style Guide: Google Documentation Style Guide
 
 This guide will use the [Google Documentation Style Guide](https://developers.google.com/style/). Although it is primarily intended for developer-facing documentation, it in creates standards of simplicity, clarity, and international accessibility that apply equally to user-facing writing.
+
+[Back](index.html)

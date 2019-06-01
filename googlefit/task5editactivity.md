@@ -7,3 +7,5 @@
 Note: If the activity was passively recorded, only the activity type can be edited
 
 4. Tap the date, start, and end fields to change the time and date of the activity.
+
+[Back](index.html)

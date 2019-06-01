@@ -13,3 +13,5 @@
 4. Tap "Save" in the top right corner.
 
 Further Information: [Available fields for activity recording](reference1activityfields.html), [Manual activity tracking](concept2manualactivity.html)
+
+[Back](index.html)
