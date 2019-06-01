@@ -1,8 +1,8 @@
 # Adding an activity
 
-1. From the home menu, tap the ![add](add.png) icon and select "Add activity".
+1. From the home menu, tap the ![add](assets/images/add.png) icon and select "Add activity".
 
-2. Use the ![dropdown](dropdown.png) icon to access drop-down options for the activity type, date, start and end times.
+2. Use the ![dropdown](assets/images/dropdown.png) icon to access drop-down options for the activity type, date, start and end times.
 
 3. Customize optional fields:
   a. If you would like to your activity a title or notes, tap the "Activity title" or "Notes" boxes to active the on-screen keyboard.
