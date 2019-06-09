@@ -1,4 +1,4 @@
-# Project: Product and Process Instructions
+# Project: Product Instructions
 
 ## Product: Minetest Modding API
 
@@ -16,4 +16,8 @@ This product has great educational potential, but the existing documentation lac
 
 ## Requirements
 
-Not sure what this means. 
+- Download a mod from a repository and create a game that uses it
+- Create the essential mod files in the correct location to be usable in the game.
+- Create a basic custom node block with some but not all more advanced features
+- Create a custom item.
+- Create custom behavior using event callbacks.
