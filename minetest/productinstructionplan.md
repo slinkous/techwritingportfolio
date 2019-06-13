@@ -27,7 +27,7 @@ This product has great educational potential, but the existing documentation lac
 Charles is a high school student with experience playing Minecraft, who is also taking basic computer science classes, which are taught primarily in Python. He wants to learn to create his own game objects in a free program, mostly imitating Minecraft YouTubers that he once followed. He will need to understand how to scale his ideas to the available tools, how to create a file in a directory that makes it testable, and try out a mod in the game.
 
 
-### Users and roles model
+## Users and roles model
 
 | User/job title | Role Description |
 | -------------- | -------------- |
