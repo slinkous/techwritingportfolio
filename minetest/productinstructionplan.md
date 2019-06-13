@@ -21,3 +21,15 @@ This product has great educational potential, but the existing documentation lac
 - Create a basic custom node block with some but not all more advanced features
 - Create a custom item.
 - Create custom behavior using event callbacks.
+
+## Scenario
+
+Charles is a high school student with experience playing Minecraft, who is also taking basic computer science classes, which are taught primarily in Python. He wants to learn to create his own game objects in a free program, mostly imitating Minecraft YouTubers that he once followed. He will need to understand how to scale his ideas to the available tools, how to create a file in a directory that makes it testable, and try out a mod in the game.
+
+
+### Users and roles model
+
+| User/job title | Role Description |
+| -------------- | -------------- |
+| Student Programmer | Has programming and gaming experience, but likely not with this game or programming language. Will need an introductory guided tutorial and resources on how to pursue a wider variety of goals following the initial step |
+| Computer Science Instructor | Teaches younger students how to program, and needs a free, open resource to teach programming in a more tangible context. Needs to understand how to use the program, and create further lessons that both cover essential concepts and are interesting to students |
