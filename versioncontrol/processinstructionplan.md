@@ -29,3 +29,7 @@ Rebecca is technical writer experienced with Microsoft Word and some Adobe Suite
 | -------------- | -------------- |
 | Technical Writer | Has experience with other formats, may have used markdown in specific contexts, and is familiar with version history in the style of MS Word or Google Docs |
 | Technical Writing Project Manager | Needs to coordinate a new project, delegate labor, and be able to observe the progress and exit history of documents, as well as posting edits and coordinating that the team all has the most current version of the project. |
+
+## Business process model
+
+![version control process flow chart](businessprocessmodel.png)
