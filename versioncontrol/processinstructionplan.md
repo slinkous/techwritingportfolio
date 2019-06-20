@@ -69,3 +69,7 @@ Rebecca is technical writer experienced with Microsoft Word and some Adobe Suite
   b. Get notified of pull request by tag
   c. Review content, changes, and commit messages
   d. Post comments on pull request and recommendation for merge or edits.
+
+## Content Model
+
+![version control content model](contentmodel.png)  
