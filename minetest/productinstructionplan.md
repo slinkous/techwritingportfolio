@@ -33,3 +33,14 @@ Charles is a high school student with experience playing Minecraft, who is also 
 | -------------- | -------------- |
 | Student Programmer | Has programming and gaming experience, but likely not with this game or programming language. Will need an introductory guided tutorial and resources on how to pursue a wider variety of goals following the initial step |
 | Computer Science Instructor | Teaches younger students how to program, and needs a free, open resource to teach programming in a more tangible context. Needs to understand how to use the program, and create further lessons that both cover essential concepts and are interesting to students |
+
+## Task list/flow
+
+1. Adding mods to correct directory and enabling in game.
+2. Starting a new mod.
+3. Creating a block (node), a texture, and accessing in-game
+4. Creating an item, and custom behavior
+
+## Use Case
+
+![use case model: student](usecase-student.png)
