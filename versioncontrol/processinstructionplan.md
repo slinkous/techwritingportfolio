@@ -30,6 +30,42 @@ Rebecca is technical writer experienced with Microsoft Word and some Adobe Suite
 | Technical Writer | Has experience with other formats, may have used markdown in specific contexts, and is familiar with version history in the style of MS Word or Google Docs |
 | Technical Writing Project Manager | Needs to coordinate a new project, delegate labor, and be able to observe the progress and exit history of documents, as well as posting edits and coordinating that the team all has the most current version of the project. |
 
-## Business process model
+## Business Process/Procedure
+
+### Actor: Content writer
+1. Receives feature assignment from Project Manager
+2. Writes content for feature
+3. Submits pull request for feature review
+
+### Actor: Content Reviewer
+1. Receives feature review assignment from Project Manager
+2. Reviews pull request and posts comments
+
+### Actor: Project Manager
+1. Divides projects into appropriately chunked features
+2. Assigns features to content writers
+3. Assigns features to content reviewers
+4. Reviews pull requests and reviewer comments to merge or recommend further editing
+
+## Process/Procedure Model
 
 ![version control process flow chart](businessprocessmodel.png)
+
+## Task list/flowcharts
+
+1. Assign features (Project Manager)
+  a. Chunk project into modular features
+  b. Assign writers to features
+  c. Assign writers to review other features
+  d. Evaluate reviewed pull requests to merge or edits
+  e. Merge pull requests
+2. Write content (Content Writer)
+  a. Create feature branch
+  b. Write content and comment on changes through commit messages
+  c. Push feature to online repository
+  d. Make pull request and tag reviewer
+3. Review Content (Content Reviewer)
+  a. Receive review assignment
+  b. Get notified of pull request by tag
+  c. Review content, changes, and commit messages
+  d. Post comments on pull request and recommendation for merge or edits.
