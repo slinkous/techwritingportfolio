@@ -53,3 +53,32 @@
   - essential, complex, difficult
   - "overview topics" (is this still a reference?)
   - All the reference material goes at the bottom
+
+## From Thursday meeting
+
+### General comments
+
+- Attach a pdf if you can't get an image to embed
+- Use case model shows the relationship between use cases
+- Hierarchy (task list) or image (use case model) are acceptable (both in example),
+- Content Model  - has a hierarchy and is also visual, includes tasks as well as reference and concepts.
+  - highest level: Use cases? Or super-tasks?
+
+>> Spaghetti behind it: shows all of the content
+
+- Allows a way to show the interconnected, hyperlinked relationship between content chunks
+
+>> As Tech Writers, we don't want to start with the content. Stop thinking about product, and think about user. These are the task list and use cases. Content model is about what we are actually going to write
+
+- Single task == single use case, distinct from steps
+
+>> We don't want to break stuff down to a level that appears patronizing
+
+- Anything that is a number should be a step
+
+- No use cases for Process model. Typically they describe interaction (most often software), want to keep users inside of the bounding box of the description of the process
+
+>> How the tool supports the process is ancillary
+
+- What are things you could only do with a tool (that's what we want to avoid with process)
+   - Take a step back and talk about what this person is trying to accomplish (trying to make sure that no one else steps on their writing)

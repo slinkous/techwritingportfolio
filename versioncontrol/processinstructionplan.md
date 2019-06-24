@@ -60,16 +60,35 @@ Rebecca is technical writer experienced with Microsoft Word and some Adobe Suite
   d. Evaluate reviewed pull requests to merge or edits
   e. Merge pull requests
 2. Write content (Content Writer)
-  a. Create feature branch
+  a. Start new branch for feature
   b. Write content and comment on changes through commit messages
-  c. Push feature to online repository
-  d. Make pull request and tag reviewer
+  c. Uploading content
+  d. Submit content for review
 3. Review Content (Content Reviewer)
   a. Receive review assignment
-  b. Get notified of pull request by tag
-  c. Review content, changes, and commit messages
-  d. Post comments on pull request and recommendation for merge or edits.
+  b. Get notified of review request from content writer
+  c. Review all changes in content
+  d. Post comments and recommendation for changes or publishing
 
 ## Content Model
 
-![version control content model](contentmodel.png)  
+![version control content model](contentmodel2.png)  
+
+Policy: Using version control for technical writing projects
+
+Procedure: Writing content using version control
+
+Tasks:
+- Chunking a project into features
+- Synchronizing project
+- Resolving version conflicts
+- Reviewing a project
+
+
+
+Concepts:
+- Why version control
+- Documenting changes
+
+Reference:
+- Roles in version controlled writing
