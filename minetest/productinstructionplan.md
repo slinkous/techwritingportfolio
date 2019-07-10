@@ -52,3 +52,11 @@ Charles is a high school student with experience playing Minecraft, who is also 
 ## Use Case
 
 ![use case model: student](usecase-student.png)
+
+## Testing
+
+### User testing
+
+- Have individual student or class group work through instructions, and note points of confusion
+
+- Post instructions with public commenting available to solicit further commentary for points to clarify
