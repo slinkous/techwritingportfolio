@@ -92,3 +92,16 @@ Concepts:
 
 Reference:
 - Roles in version controlled writing
+
+
+Task Flow:
+
+1. Why Use version control (Concept)
+2. Roles in version control (Reference)
+3. Managing writing projects using version control (Procedure)
+  a. Dividing a writing project into features (Task)
+4. Writing content using Version Control (Procedure)
+  a. Synchronizing a project (Task)
+  b. Best practices for documenting changes (Concept)
+  c. Resolving version conflicts
+5. Reviewing content in version controlled projects (Task)
