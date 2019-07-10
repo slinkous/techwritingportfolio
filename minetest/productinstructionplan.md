@@ -36,10 +36,18 @@ Charles is a high school student with experience playing Minecraft, who is also 
 
 ## Task list/flow
 
-1. Adding mods to correct directory and enabling in game.
-2. Starting a new mod.
-3. Creating a block (node), a texture, and accessing in-game
-4. Creating an item, and custom behavior
+1. Adding mods
+  a. Finding the mods directory
+  b. Enabling a mod through a start up
+2. Starting a new mod
+  a. Creating the main program file
+  b. Adding mod information
+3. Creating a node
+  a. Creating a new node
+  b. Testing a new node
+  c. Create a custom texture
+
+
 
 ## Use Case
 
