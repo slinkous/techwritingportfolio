@@ -74,11 +74,13 @@ Rebecca is technical writer experienced with Microsoft Word and some Adobe Suite
 
 ![version control content model](contentmodel2.png)  
 
-Policy: Using version control for technical writing projects
+### Policy
+- Using version control for technical writing projects
 
-Procedure: Writing content using version control
+### Procedure
+- Writing content using version control
 
-Tasks:
+### Tasks
 - Chunking a project into features
 - Synchronizing project
 - Resolving version conflicts
@@ -86,15 +88,15 @@ Tasks:
 
 
 
-Concepts:
+### Concepts
 - Why version control
 - Documenting changes
 
-Reference:
+### Reference
 - Roles in version controlled writing
 
 
-Task Flow:
+### Task Flow
 
 1. Why Use version control (Concept)
 2. Roles in version control (Reference)
@@ -105,3 +107,27 @@ Task Flow:
   b. Best practices for documenting changes (Concept)
   c. Resolving version conflicts
 5. Reviewing content in version controlled projects (Task)
+
+## Test cases
+
+### For all roles
+- Discuss version control pros and cons (understanding why it is used)
+
+### For Project Managers
+
+- Evaluate scoping of project feature divisions
+  - Check points of overlap in divisions
+  - Check relative size of projects for evenness
+
+### For Content Writers
+- Check consistency of synchronization practices
+- Check style of change documentation
+  - Imperative case
+  - Concision
+  - Descriptively adequate
+  - Detailed where necessary
+- Evaluate sample case of version conflict resolution
+  - Defaulting to original structure
+  - Integrating changes without jarring the flow
+
+  
